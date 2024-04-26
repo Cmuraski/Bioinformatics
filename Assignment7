@@ -1,0 +1,7 @@
+Starting around 47,654 kb, the end of the gene: gene-ptk7a comes into view
+We can identify that this is an open chromatin region due to the peaks in ATAC-seq. 
+There are two exons near the end of this gene: exon-XM_037690514.1-12 and exon-XM_037690514.1-10 around 47655 kb
+These are protein coding exons being expressed for both developmental stages as identifiable by the peaks in RNA-seq.
+Further downstream around 47656 kb, are the exons exon-XM_037690514.1-10, exon-XM_037690514.1-9, and exon-XM_037690514.1-8 which are more coding exons for both developmental stages. 
+The final exon on the screen is exon-XM_037690514.1-6 which is still apart of the gene-ptk7a.
+This is a noncoding gene being expressed for both developmental stages as evedint by the lack of peaks in RNA-seq. 
